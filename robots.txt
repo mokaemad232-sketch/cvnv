@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cvnv-eight.vercel.app/sitemap.xml
